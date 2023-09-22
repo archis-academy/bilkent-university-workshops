@@ -1,0 +1,27 @@
+/* h2 -> selector  */
+/* color -> property  */
+/* red -> property value  */
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    color: #00ff00;
+    font-size: 30px;
+   
+    width: 400px;
+    height: 200px;
+    border: 2px solid red;
+    padding-top: 50px;
+}
+
+a {
+    display: block;
+}
+
+.classaADı{
+    color: aquamarine;
+}
